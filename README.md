@@ -49,7 +49,14 @@ All product names, logos, brands, trademarks, and registered trademarks mentione
 ## License
 This project is licensed under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html), in accordance with the licensing terms of the original SenseShift project.
 
+
+
+## Community
+[WeaVR Discord](https://discord.gg/rcnSCGr6tx)   
+
+
 ---
+
 
 ### Support
 If you find this project useful, consider grabbing me a coffee. Any support is greatly appreciated and helps keep the project going! 
